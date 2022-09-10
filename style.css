@@ -1,0 +1,66 @@
+html {
+    background-color: #eeeeee; 
+  }
+
+#imgg{
+    margin-top:-80px;
+}
+
+#education {
+    display:flex;
+}
+
+#e1 {
+    flex:1
+}
+
+#e2 {
+    flex:1
+}
+
+#e3 {
+    flex:1
+}
+
+#skills {
+    display:flex;
+}
+
+#s1 {
+    flex:1
+}
+
+#s2 {
+    flex:1
+}
+
+#s3 {
+    flex:1
+}
+
+#s4 {
+    flex:1
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+body {
+    font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
+    color: #000;
+    background-color: #ffffff;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    max-width: 960px;
+}
+
+
